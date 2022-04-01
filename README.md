@@ -24,13 +24,14 @@ Nesta página o usuário pode visualizar seus pedidos, e alternar entre pedidos 
 </br>
 </br>
 # /pedido/formulario
-</br>
-</br>
 Nesta página o usuário pode registrar um novo pedido, preenchendo os dados a seguir. Esta contém um sistema de validação dos dados, requerendo que o usuários preencha os campos selecionados.
+</br>
+</br>
 <img src="https://i.imgur.com/wdfR5hm.png">
 </br>
 </br>
 # /api/pedidos/aguardando
+Este foi um extra que iniciei para ter um exemplo de comunicação com API Rest.
 </br>
 </br>
 <img src="https://i.imgur.com/OS99Kxp.png">
